@@ -10,7 +10,9 @@ Add an explanation of the algorithm and how it works. Make sure to include detai
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
-
+1. connect Jetson-nano with VScode using SSH
+2. download the files at this page
+3. pull the files u want to test under /project/data/face/val
+4. run the code ""
+5. after the code is finish, open the folder result to check the result
 [View a video explanation here](video link)
