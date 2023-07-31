@@ -1,8 +1,8 @@
-# Project Name
+# Face Detector
 
- Add short description of project here > 
+Face Detector is use when people are unable to know what solution they are in > 
 
-![add image descrition here](direct image link here)
+![[add image descrition here](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.research-live.com%2Fimg%2Femotions_crop.jpg&tbnid=u-bD9o_XVDii_M&vet=12ahUKEwjxvKfQtbmAAxV-hu4BHTVgAAkQMygBegUIARDdAQ..i&imgrefurl=https%3A%2F%2Fwww.research-live.com%2Farticle%2Fopinion%2Fface-up-to-it-emotion-detection-transforms-market-research-%2Fid%2F5006942&docid=fbSMkMAt0pTinM&w=592&h=444&q=human%20face%20emotion&ved=2ahUKEwjxvKfQtbmAAxV-hu4BHTVgAAkQMygBegUIARDdAQ)](direct image link here)
 
 ## The Algorithm
 
