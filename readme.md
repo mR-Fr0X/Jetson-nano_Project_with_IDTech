@@ -6,7 +6,7 @@ Face Detector is use when people are unable to know what solution they are in >
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+Inorder to start the project, i use resnet18 to train the AI with models from image net. i get my picture from https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer, and use them to help with the trainings
 
 ## Running this project
 
