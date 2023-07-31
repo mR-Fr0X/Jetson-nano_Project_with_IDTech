@@ -16,4 +16,5 @@ Add an explanation of the algorithm and how it works. Make sure to include detai
 4. chenge the folder to project by using "cd jetson-inference/project/"
 5. run the code "python3 script.py data/face/train/ data/face/result"
 6. after the code is finish, open the folder 'result' to check the result
+
 [View a video explanation here](video link)
