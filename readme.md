@@ -1,8 +1,8 @@
 # Face Detector
 
-Face Detector is use when people are unable to know what solution they are in > 
+Face Detector is use when people are unable to know what solution they are in 
 
-![](direct image link here)
+![Collage Maker-31-Jul-2023-04-54-PM-43997](https://github.com/mR-Fr0X/Jetson-nano_Project_with_IDTech/assets/140645291/9ef2fc4f-95e8-46b2-b360-d8616d2b09bf)
 
 ## The Algorithm
 
