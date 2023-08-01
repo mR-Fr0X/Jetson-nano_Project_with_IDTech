@@ -1,10 +1,10 @@
 # Face Detector
 
-Face Detector is used to detect what emotion the person have
+Face Detector is used to detect what emotions the person has
 
 ![Collage Maker-31-Jul-2023-04-54-PM-43997](https://github.com/mR-Fr0X/Jetson-nano_Project_with_IDTech/assets/140645291/9ef2fc4f-95e8-46b2-b360-d8616d2b09bf)
 
-this is what the result should look like (3 of them are all from happy but because the picture is only 48 pix)
+this is what the result should look like (pictures can only show the first 2 digits because it's only 48 pix)
 
 ## The Algorithm
 
