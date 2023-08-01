@@ -1,6 +1,6 @@
 # Face Detector
 
-Face Detector is used when people are unable to know what solution they are in and tries to help them become normal
+Face Detector is used to detect what emotion the person have
 
 ![Collage Maker-31-Jul-2023-04-54-PM-43997](https://github.com/mR-Fr0X/Jetson-nano_Project_with_IDTech/assets/140645291/9ef2fc4f-95e8-46b2-b360-d8616d2b09bf)
 
