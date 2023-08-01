@@ -16,7 +16,7 @@ In order to start the project, I use resnet18 to train the AI with models from i
 2. download the files on this page
 3. pull the files you want to test under /project/data/face/val
 4. change the folder to project by using "cd jetson-inference/project/"
-5. run the code "python3 script.py data/face/train/ data/face/result"
+5. run the code "python3 script.py data/face/val data/face/result"
 6. after the code is finished, open the folder 'result' to check the result
 
 [View a video explanation here](video link)
