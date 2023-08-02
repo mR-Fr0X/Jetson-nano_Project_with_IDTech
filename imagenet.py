@@ -28,7 +28,7 @@ from jetson_inference import imageNet
 from jetson_utils import videoSource, videoOutput, cudaFont, Log
 
 
-def process_images(input,output,network="network",topK=1):
+def process_image(input,output,network="network",topK=1):
     # load the recognition network
     # net = imageNet(network, sys.argv)
 
@@ -79,3 +79,6 @@ def process_images(input,output,network="network",topK=1):
     net.PrintProfilerTimes()
 
     return labels
+
+# if __name__ == "__main__":
+#     process_image("data/face/example/PublicTest_91.jpg", "data/face/output/PublicTest_91_test.jpg")

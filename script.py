@@ -1,11 +1,11 @@
-# parse the command line
+    # parse the command line
 import os
 import sys
 import argparse
 import shutil
 
 from jetson_inference import imageNet
-from imagenet import process_images
+from imagenet import process_image
 from jetson_utils import videoSource, videoOutput, cudaFont, Log
 
 parser = argparse.ArgumentParser(description="Classify a live camera stream using an image recognition DNN.", 
@@ -54,7 +54,7 @@ for category in categories:
         image_path = os.path.join(category_folder_path, image)
         output_image_path = os.path.join(result_category_folder_path, "test_{}".format(image))
 
-        labels = process_images(image_path, output_image_path, args.network, args.topK)
+        labels = process_image(image_path, output_image_path, args.network, args.topK)
 
         if category not in labels:
             error += 1
