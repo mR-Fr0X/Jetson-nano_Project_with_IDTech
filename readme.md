@@ -1,8 +1,8 @@
 # Face Detector
 
-The reason I choose this topic as my project is that there are 16 emotions in total, usually people want to know what each other is thinking but it's hard to tell from the outside.Face Detector could help to detect what emotions that person has.
+The reason I choose this topic as my project is that there are 16 emotions in total, usually people want to know what each other is thinking but it's hard to tell from the outside. Face Detector could help to detect what emotions that person has.
 
-![Result Demo]()
+![Result Demo](738-9ef2fc4f-95e8-46b2-b360-d8616d2b09bf.jpg)
 
 this is what the result should look like (pictures can only show the first 2 digits because it's only 48 pix)
 
