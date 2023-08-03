@@ -11,7 +11,7 @@ this is what the result should look like (pictures can only show the first 2 dig
 In order to start the project, I use resnet18 to train the AI with models from image net. I get my picture from https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer and use them to help with the training
 
 If you want to retrain the model, use the link below to the Google Colab Notebook:
-https://colab.research.google.com/gist/Charlotteec/d625a314ed1ea177e632c210e06c8b28/train_model_backup.ipynb
+https://colab.research.google.com/drive/1FcBezbuU0YxbLPa5C8fPZofc_15YXblK
 
 ## Running this project
 
